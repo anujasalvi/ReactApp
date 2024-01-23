@@ -3,6 +3,7 @@
 ## Project Description
 
 "Randomize Your Day" is an engaging React-Node application designed to add a delightful twist to your daily routine. This innovative app seamlessly integrates three distinct APIs to provide users with a randomized selection of a cocktail, a meal, and a piece of advice, injecting spontaneity and variety into their lives.
+
 <img src="react-app-main-page.PNG" style="text-align: center;"><br>
 
 ### Key Features
